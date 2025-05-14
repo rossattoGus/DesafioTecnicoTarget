@@ -1,11 +1,9 @@
 # Desafio Técnico para Target Sistemas
-<br>
 ## Pré-requisitos
 - [.NET SDK](https://dotnet.microsoft.com/download) instalado (versão 6.0 ou superior recomendada)
 - Editor de código como [Visual Studio Code](https://code.visualstudio.com)
 - Terminal (integrado ou externo)
 - Git 
-<br>
 ## Como rodar?
 ### Clonar este repositório
 ```bash
@@ -15,7 +13,6 @@ git clone https://github.com/seu-usuario/exercicios-logica-csharp.git
 ```bash
 cd DesafioTecnicoTarget\Exercicio[1-5]
 ```
-<br>
 ### Executar o comando abaixo na pasta do exercício
 ```bash
 dotnet run
