@@ -12,3 +12,4 @@ C:\DesafioTecnicoTarget\Exercicio1\obj\Debug\net8.0\refint\Exercicio1.dll
 C:\DesafioTecnicoTarget\Exercicio1\obj\Debug\net8.0\Exercicio1.pdb
 C:\DesafioTecnicoTarget\Exercicio1\obj\Debug\net8.0\Exercicio1.genruntimeconfig.cache
 C:\DesafioTecnicoTarget\Exercicio1\obj\Debug\net8.0\ref\Exercicio1.dll
+C:\DesafioTecnicoTarget\Exercicio1\obj\Debug\net8.0\Exercicio1.sourcelink.json

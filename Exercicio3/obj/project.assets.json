@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DesafioTecnicoTarget\\AverageMonth\\AverageMonth.csproj",
-      "projectName": "AverageMonth",
-      "projectPath": "C:\\DesafioTecnicoTarget\\AverageMonth\\AverageMonth.csproj",
+      "projectUniqueName": "C:\\DesafioTecnicoTarget\\Exercicio3\\faturamento.csproj",
+      "projectName": "faturamento",
+      "projectPath": "C:\\DesafioTecnicoTarget\\Exercicio3\\faturamento.csproj",
       "packagesPath": "C:\\Users\\rossa\\.nuget\\packages\\",
-      "outputPath": "C:\\DesafioTecnicoTarget\\AverageMonth\\obj\\",
+      "outputPath": "C:\\DesafioTecnicoTarget\\Exercicio3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rossa\\AppData\\Roaming\\NuGet\\NuGet.Config",
