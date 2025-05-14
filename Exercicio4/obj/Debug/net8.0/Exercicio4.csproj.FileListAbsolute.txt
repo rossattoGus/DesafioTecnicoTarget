@@ -1,0 +1,14 @@
+C:\DesafioTecnicoTarget\Exercicio4\obj\Debug\net8.0\Exercicio4.GeneratedMSBuildEditorConfig.editorconfig
+C:\DesafioTecnicoTarget\Exercicio4\obj\Debug\net8.0\Exercicio4.AssemblyInfoInputs.cache
+C:\DesafioTecnicoTarget\Exercicio4\obj\Debug\net8.0\Exercicio4.AssemblyInfo.cs
+C:\DesafioTecnicoTarget\Exercicio4\obj\Debug\net8.0\Exercicio4.csproj.CoreCompileInputs.cache
+C:\DesafioTecnicoTarget\Exercicio4\bin\Debug\net8.0\Exercicio4.exe
+C:\DesafioTecnicoTarget\Exercicio4\bin\Debug\net8.0\Exercicio4.deps.json
+C:\DesafioTecnicoTarget\Exercicio4\bin\Debug\net8.0\Exercicio4.runtimeconfig.json
+C:\DesafioTecnicoTarget\Exercicio4\bin\Debug\net8.0\Exercicio4.dll
+C:\DesafioTecnicoTarget\Exercicio4\bin\Debug\net8.0\Exercicio4.pdb
+C:\DesafioTecnicoTarget\Exercicio4\obj\Debug\net8.0\Exercicio4.dll
+C:\DesafioTecnicoTarget\Exercicio4\obj\Debug\net8.0\refint\Exercicio4.dll
+C:\DesafioTecnicoTarget\Exercicio4\obj\Debug\net8.0\Exercicio4.pdb
+C:\DesafioTecnicoTarget\Exercicio4\obj\Debug\net8.0\Exercicio4.genruntimeconfig.cache
+C:\DesafioTecnicoTarget\Exercicio4\obj\Debug\net8.0\ref\Exercicio4.dll

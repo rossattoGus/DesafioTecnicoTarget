@@ -1,0 +1,14 @@
+C:\DesafioTecnicoTarget\AverageMonth\obj\Debug\net8.0\AverageMonth.GeneratedMSBuildEditorConfig.editorconfig
+C:\DesafioTecnicoTarget\AverageMonth\obj\Debug\net8.0\AverageMonth.AssemblyInfoInputs.cache
+C:\DesafioTecnicoTarget\AverageMonth\obj\Debug\net8.0\AverageMonth.AssemblyInfo.cs
+C:\DesafioTecnicoTarget\AverageMonth\obj\Debug\net8.0\AverageMonth.csproj.CoreCompileInputs.cache
+C:\DesafioTecnicoTarget\AverageMonth\bin\Debug\net8.0\AverageMonth.exe
+C:\DesafioTecnicoTarget\AverageMonth\bin\Debug\net8.0\AverageMonth.deps.json
+C:\DesafioTecnicoTarget\AverageMonth\bin\Debug\net8.0\AverageMonth.runtimeconfig.json
+C:\DesafioTecnicoTarget\AverageMonth\bin\Debug\net8.0\AverageMonth.dll
+C:\DesafioTecnicoTarget\AverageMonth\bin\Debug\net8.0\AverageMonth.pdb
+C:\DesafioTecnicoTarget\AverageMonth\obj\Debug\net8.0\AverageMonth.dll
+C:\DesafioTecnicoTarget\AverageMonth\obj\Debug\net8.0\refint\AverageMonth.dll
+C:\DesafioTecnicoTarget\AverageMonth\obj\Debug\net8.0\AverageMonth.pdb
+C:\DesafioTecnicoTarget\AverageMonth\obj\Debug\net8.0\AverageMonth.genruntimeconfig.cache
+C:\DesafioTecnicoTarget\AverageMonth\obj\Debug\net8.0\ref\AverageMonth.dll
